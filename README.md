@@ -5,6 +5,7 @@ Voici un jeu des bâtonnets en python
 Le jeu se joue à **2 joueurs**
 
 Vous avez 21 bâtonnets et vous pouvez tour à tour en retirer soit 1, 2, ou 3
+
 Le dernier joueur ayant retiré le dernier bâtonnet perd la partie laissant donc la victoire à son adversaire
 
 # Licence
